@@ -2,7 +2,7 @@
 
  **Overview**
 
-Implementation of PCA and K-Means clustering \*\*from scratch\*\* (no sklearn) to analyze demographic patterns across 610 Indian districts.
+Implementation of PCA and K-Means clustering from scratch (no sklearn) to analyze demographic patterns across 610 Indian districts.
 
  **Key Features**
 
